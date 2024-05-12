@@ -275,6 +275,7 @@ ul{
 
 .squad-card-text{
   text-align: center;
+  margin-bottom: 8px;
   
 }
 
@@ -319,6 +320,7 @@ ul{
 .ending{
   background-color: #2e2f42;
   padding: 100px 0;
+  margin-bottom: 8px;
 }
 
 .ending-t{
@@ -326,13 +328,16 @@ ul{
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4f4;
+  margin-bottom: 8px;
 }
 
 .ending-logo{
   display: inline-block;
   margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
 .ending-logo-span{
   color: #f4f4f4;
+  margin-bottom: 8px;
 }
