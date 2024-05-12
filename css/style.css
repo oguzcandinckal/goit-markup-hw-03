@@ -148,6 +148,8 @@ ul{
 .one-section{
   background-color: #2e2f42;
   padding: 188px 0;
+  margin-bottom: 8px;
+  text-align: center;
 }
 
 .one-section-title{
@@ -211,6 +213,7 @@ ul{
   clip: rect(0 0 0 0);
   overflow: hidden;
   text-align: center;
+  margin-bottom: 8px;
   
 }
 
@@ -228,6 +231,7 @@ ul{
   background-color: #f4f4f4;
   padding: 120px 0;
   text-align: center;
+  margin-bottom: 8px;
 
 }
 
@@ -252,6 +256,7 @@ ul{
   width: calc((100%-72px) / 4);
   background-color: #ffffff;
   border-radius: 0px 0px 4px 4px;
+  margin-bottom: 8px;
 }
 
 .squad-card{
@@ -290,6 +295,7 @@ ul{
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
+  margin-bottom: 8px;
 
 }
 
@@ -297,6 +303,7 @@ ul{
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
+  margin-bottom: 8px;
   
 } 
 
